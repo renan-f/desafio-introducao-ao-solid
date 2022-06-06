@@ -101,7 +101,7 @@
                 }
             }
         },
-        "/users/:user_id": {
+        "/users/{user_id}": {
             "get": {
                 "tags": [
                     "User"
@@ -154,7 +154,7 @@
                 }
             }
         },
-        "users/:user_id/admin": {
+        "users/{user_id}/admin": {
             "patch": {
                 "tags": [
                     "User"
