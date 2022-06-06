@@ -5,6 +5,7 @@
 ##### Solid
 ##### Orientação a objetos
 ##### Singleton
+##### Swagger UI
 
 ## Como executar o projeto
 ### Requisitos
@@ -20,4 +21,4 @@
 #### 2 - Execute o teste com o comando `yarn test`
 
 ##
-###### Resolução do "Desafio 01 - Introdução ao SOLID" do curso Ignite (Rocketseat).
+###### Resolução do "Desafio 01 - Introdução ao SOLID" e do "Desafio 02 - Documentando com Swagger" do curso Ignite (Rocketseat).
